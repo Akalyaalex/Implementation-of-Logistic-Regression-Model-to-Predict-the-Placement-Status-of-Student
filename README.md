@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Import dataset
+
 2.Check for null and duplicate values
+
 3.Assign x and y values
+
 4.Split the data into training and testing data
+
 5.Import logistic regression and fit the training data
+
 6.Predict y value
+
 7.Calculate accuracy and confusion matrix
 
 ## Program:
